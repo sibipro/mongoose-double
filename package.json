@@ -1,5 +1,5 @@
 {
-  "name": "@mongoosejs/double",
+  "name": "@sibipro/double",
   "private": false,
   "version": "0.1.2",
   "homepage": "http://plugins.mongoosejs.io/plugins/double",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mongoosejs/mongoose-double.git"
+    "url": "git://github.com/sibipro/mongoose-double.git"
   },
   "keywords": [
     "mongoose",
